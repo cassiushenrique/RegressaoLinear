@@ -1,0 +1,11 @@
+OFICINA DE R — PUBLICAÇÃO
+
+1. Faça upload do CONTEÚDO da pasta OficinaR para a raiz do repositório GitHub OficinaR.
+2. Envie posteriormente o PDF com o nome EXATO apostila_introducao_R.pdf para a pasta materiais/.
+3. O caminho esperado é materiais/apostila_introducao_R.pdf.
+4. Em Settings > Pages, publique a branch main, pasta /(root).
+5. Endereço esperado: https://cassiushenrique.github.io/OficinaR/ (respeite maiúsculas).
+6. Antes de adicionar o PDF, os botões e o visualizador apontarão para arquivo inexistente; isso é esperado.
+7. Atualizações futuras: substitua o PDF pelo novo arquivo com o mesmo nome.
+
+A pasta materiais contém .gitkeep para permanecer no ZIP e no GitHub mesmo sem PDF.
